@@ -1,0 +1,36 @@
+{
+  "name": "phoenixbotsystem",
+  "version": "1.0.0",
+  "main": "phoenix.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "2Rayan",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.9.0",
+    "@discordjs/rest": "^1.7.0",
+    "@distube/yt-dlp": "^1.1.3",
+    "@distube/ytdl-core": "^4.13.2",
+    "avconv": "^3.1.0",
+    "axios": "^1.5.0",
+    "better-sqlite3": "^8.4.0",
+    "discord-api-types": "^0.37.40",
+    "discord-html-transcripts": "^2.6.1",
+    "discord.js": "^14.13.0",
+    "distube": "^4.1.0",
+    "emoji-regex": "^10.2.1",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^5.2.0",
+    "fivem": "^2.1.8",
+    "libsodium-wrappers": "^0.7.11",
+    "mysql": "^2.18.1",
+    "node-fetch": "^3.3.2",
+    "openai": "^4.8.0",
+    "opusscript": "^0.0.8",
+    "quick.db": "^9.1.7",
+    "sodium-native": "^4.0.4"
+  },
+  "description": "Made by 2rayan -_-"
+}
