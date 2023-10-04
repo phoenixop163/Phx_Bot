@@ -6,3 +6,4 @@
  2- deepai : https://deepai.org/dashboard/profile
  3- chatGpt : https://platform.openai.com/account/api-keys
  4-  Bitly : https://app.bitly.com/settings/api/
+And dont forget to add the sql 
